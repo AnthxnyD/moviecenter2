@@ -75,7 +75,12 @@ iframe {
   margin-bottom: 0 2rem;
 
 }
+.sectio{
+  padding: 0 2rem;
+
+}
 .section__header{
   @include flex(center,space-between);
   
 }
+
